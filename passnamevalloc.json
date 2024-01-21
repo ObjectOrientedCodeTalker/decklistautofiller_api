@@ -207,6 +207,10 @@
     "name": "Spell Gear",
     "tsdvalue": 2323
   },
+  "324483": {
+    "name": "Ultimate Flame Swordsman",
+    "tsdvalue": 23826
+  },
   "327051": {
     "name": "Magistus Vritra",
     "tsdvalue": 20034
@@ -562,6 +566,10 @@
   "1045143": {
     "name": "Geargiano Mk-II",
     "tsdvalue": 5048
+  },
+  "1047075": {
+    "name": "Fighting Flame Swordsman",
+    "tsdvalue": 23823
   },
   "1050186": {
     "name": "Satellarknight Unukalhai",
@@ -3291,6 +3299,10 @@
     "name": "Miracle Dig",
     "tsdvalue": 1694
   },
+  "6351147": {
+    "name": "Transaction Rollback",
+    "tsdvalue": 23860
+  },
   "6351548": {
     "name": "Dawn Knight",
     "tsdvalue": 7011
@@ -3795,6 +3807,10 @@
     "name": "Blackwing - Zonda the Dusk",
     "tsdvalue": 23040
   },
+  "7473735": {
+    "name": "Harmonic Synchro Fusion",
+    "tsdvalue": 23857
+  },
   "7478431": {
     "name": "Naturia Sunflower",
     "tsdvalue": 4111
@@ -4095,6 +4111,10 @@
     "name": "Atlantean Attack Squad",
     "tsdvalue": 5057
   },
+  "8080257": {
+    "name": "Flame Swordsdance",
+    "tsdvalue": 23832
+  },
   "8083925": {
     "name": "Live?Twin Home",
     "tsdvalue": 20040
@@ -4391,6 +4411,10 @@
     "name": "Dreamsprite",
     "tsdvalue": 788
   },
+  "8690387": {
+    "name": "Earthbound Servant Geo Gremlin",
+    "tsdvalue": 23854
+  },
   "8692301": {
     "name": "Gem-Knight Zirconia",
     "tsdvalue": 5157
@@ -4626,6 +4650,10 @@
   "9097866": {
     "name": "Cross Debug",
     "tsdvalue": 19016
+  },
+  "9102835": {
+    "name": "Salamandra Fusion",
+    "tsdvalue": 23829
   },
   "9106362": {
     "name": "Performapal Gongato",
@@ -5443,6 +5471,10 @@
     "name": "Swallow Flip",
     "tsdvalue": 3501
   },
+  "10666000": {
+    "name": "Number 1: Infection Buzzking",
+    "tsdvalue": 23845
+  },
   "10667321": {
     "name": "Ancient Rules",
     "tsdvalue": 92
@@ -5846,6 +5878,10 @@
   "11481610": {
     "name": "Performapal Popperup",
     "tsdvalue": 19376
+  },
+  "11489642": {
+    "name": "Triangle O",
+    "tsdvalue": 23842
   },
   "11493868": {
     "name": "Fortissimo",
@@ -6350,6 +6386,10 @@
   "12496261": {
     "name": "Dragunity Knight - Luin",
     "tsdvalue": 18335
+  },
+  "12501230": {
+    "name": "Combat Wheel",
+    "tsdvalue": 23839
   },
   "12503902": {
     "name": "Rare Metalmorph",
@@ -9775,6 +9815,10 @@
     "name": "Talisman of Trap Sealing",
     "tsdvalue": 2449
   },
+  "19322865": {
+    "name": "Earthbound Prisoner Line Walker",
+    "tsdvalue": 23851
+  },
   "19324993": {
     "name": "Xtra HERO Infernal Devicer",
     "tsdvalue": 19498
@@ -9890,6 +9934,10 @@
   "19535693": {
     "name": "Noh-P.U.N.K. Ze Amin",
     "tsdvalue": 20699
+  },
+  "19544412": {
+    "name": "Ring Announcer",
+    "tsdvalue": 23848
   },
   "19578592": {
     "name": "Axe of Fools",
@@ -11491,6 +11539,10 @@
     "name": "Umi",
     "tsdvalue": 2673
   },
+  "22723778": {
+    "name": "Clorless, Chaos King of Dark World",
+    "tsdvalue": 23836
+  },
   "22747316": {
     "name": "Retort",
     "tsdvalue": 5257
@@ -11890,6 +11942,10 @@
   "23442438": {
     "name": "Synchro Chase",
     "tsdvalue": 19367
+  },
+  "23446369": {
+    "name": "Eye of Illusion",
+    "tsdvalue": 23833
   },
   "23454876": {
     "name": "CXyz Dark Fairy Cheer Girl",
@@ -17047,6 +17103,10 @@
     "name": "Samsara Dragon",
     "tsdvalue": 22703
   },
+  "33750856": {
+    "name": "Code Hack",
+    "tsdvalue": 23861
+  },
   "33767325": {
     "name": "Meteor of Destruction",
     "tsdvalue": 1672
@@ -17102,6 +17162,10 @@
   "33866130": {
     "name": "Naturia Cliff",
     "tsdvalue": 4100
+  },
+  "33872334": {
+    "name": "Phoenix Gearblade",
+    "tsdvalue": 23858
   },
   "33875961": {
     "name": "Dark Catapulter",
@@ -18051,6 +18115,10 @@
     "name": "Tragedy",
     "tsdvalue": 2600
   },
+  "35697544": {
+    "name": "Fighting Flame Sword",
+    "tsdvalue": 23830
+  },
   "35705817": {
     "name": "Ghost Fusion",
     "tsdvalue": 23539
@@ -18334,6 +18402,10 @@
   "36318200": {
     "name": "Uniflora, Mystical Beast of the Forest",
     "tsdvalue": 5052
+  },
+  "36319131": {
+    "name": "Fighting Flame Dragon",
+    "tsdvalue": 23827
   },
   "36320744": {
     "name": "Angelica, Princess of Noble Arms",
@@ -18994,6 +19066,10 @@
   "37520316": {
     "name": "Mind Control",
     "tsdvalue": 3280
+  },
+  "37531679": {
+    "name": "Salamandra, the Flying Flame Dragon",
+    "tsdvalue": 23824
   },
   "37534148": {
     "name": "Ribbon of Rebirth",
@@ -22371,6 +22447,10 @@
     "name": "Parasomnia Pillow",
     "tsdvalue": 22808
   },
+  "44094981": {
+    "name": "Earthbound Servant Geo Gryphon",
+    "tsdvalue": 23855
+  },
   "44095762": {
     "name": "Mirror Force",
     "tsdvalue": 3288
@@ -23207,6 +23287,10 @@
     "name": "Jurrac Ptera",
     "tsdvalue": 4058
   },
+  "45716579": {
+    "name": "Earthbound Servant Geo Kraken",
+    "tsdvalue": 23852
+  },
   "45725480": {
     "name": "Sacred Sword of Seven Stars",
     "tsdvalue": 5517
@@ -23811,6 +23895,10 @@
     "name": "Herald of Mirage Lights",
     "tsdvalue": 19496
   },
+  "46939151": {
+    "name": "Earthbound Prisoner Ground Keeper",
+    "tsdvalue": 23849
+  },
   "46947713": {
     "name": "Transcode Talker",
     "tsdvalue": 18302
@@ -23890,6 +23978,10 @@
   "47030842": {
     "name": "Geargiaccelerator",
     "tsdvalue": 5049
+  },
+  "47051709": {
+    "name": "Photon Delta Wing",
+    "tsdvalue": 23846
   },
   "47060154": {
     "name": "Mystic Clown",
@@ -24298,6 +24390,10 @@
   "47870325": {
     "name": "Smile Action",
     "tsdvalue": 19377
+  },
+  "47873397": {
+    "name": "Totem Pole",
+    "tsdvalue": 23843
   },
   "47879985": {
     "name": "Guardian of the Throne Room",
@@ -25698,6 +25794,10 @@
   "50823978": {
     "name": "Piranha Army",
     "tsdvalue": 1938
+  },
+  "50834074": {
+    "name": "Kaitoptera",
+    "tsdvalue": 23834
   },
   "50847759": {
     "name": "Last Hope of Nephthys",
@@ -29875,6 +29975,10 @@
     "name": "Wulf, Lightsworn Beast",
     "tsdvalue": 2802
   },
+  "58996839": {
+    "name": "Ashoka Pillar",
+    "tsdvalue": 23840
+  },
   "59019082": {
     "name": "Garoth, Lightsworn Warrior",
     "tsdvalue": 1065
@@ -30210,6 +30314,10 @@
   "59708927": {
     "name": "Umbral Horror Ghost",
     "tsdvalue": 6989
+  },
+  "59712426": {
+    "name": "Arcana Force XV - The Fiend",
+    "tsdvalue": 23837
   },
   "59718521": {
     "name": "Mind Over Matter",
@@ -31362,6 +31470,10 @@
   "62089826": {
     "name": "True Light",
     "tsdvalue": 20501
+  },
+  "62091148": {
+    "name": "Salamandra with Chain",
+    "tsdvalue": 23831
   },
   "62098216": {
     "name": "Evil?Twins Ki-sikil & Lil-la",
@@ -35359,6 +35471,10 @@
     "name": "Brotherhood of the Fire Fist - Gorilla",
     "tsdvalue": 5306
   },
+  "70366448": {
+    "name": "Drastic Draw",
+    "tsdvalue": 23859
+  },
   "70368879": {
     "name": "Upstart Goblin",
     "tsdvalue": 2684
@@ -35703,6 +35819,10 @@
     "name": "Witchcrafter Golem Aruru",
     "tsdvalue": 19042
   },
+  "71089030": {
+    "name": "Earthbound Prison",
+    "tsdvalue": 23856
+  },
   "71095768": {
     "name": "Bujinki Ahashima",
     "tsdvalue": 19503
@@ -35710,6 +35830,10 @@
   "71098407": {
     "name": "Memory Loss",
     "tsdvalue": 5521
+  },
+  "71101678": {
+    "name": "Earthbound Servant Geo Grasha",
+    "tsdvalue": 23853
   },
   "71106375": {
     "name": "Jurrac Iguanon",
@@ -36299,6 +36423,10 @@
     "name": "Red Gardna",
     "tsdvalue": 17021
   },
+  "72323266": {
+    "name": "Earthbound Prisoner Stone Sweeper",
+    "tsdvalue": 23850
+  },
   "72328962": {
     "name": "Fabled Soulkius",
     "tsdvalue": 4024
@@ -36658,6 +36786,10 @@
   "73040500": {
     "name": "Fabled Urustos",
     "tsdvalue": 4026
+  },
+  "73046708": {
+    "name": "Armored Xyz",
+    "tsdvalue": 23847
   },
   "73048641": {
     "name": "Half Shut",
@@ -37035,6 +37167,10 @@
     "name": "Little Trooper",
     "tsdvalue": 5053
   },
+  "73714736": {
+    "name": "Flame Swordsrealm",
+    "tsdvalue": 23828
+  },
   "73729209": {
     "name": "Skill Successor",
     "tsdvalue": 3456
@@ -37134,6 +37270,10 @@
   "73915051": {
     "name": "Scapegoat",
     "tsdvalue": 2167
+  },
+  "73936388": {
+    "name": "Mirage Swordsman",
+    "tsdvalue": 23825
   },
   "73941492": {
     "name": "Harmonizing Magician",
@@ -42139,6 +42279,10 @@
     "name": "B.E.S. Blaster Cannon Core",
     "tsdvalue": 19037
   },
+  "84262395": {
+    "name": "Earthbound Release",
+    "tsdvalue": 23844
+  },
   "84268896": {
     "name": "Artifact Caduceus",
     "tsdvalue": 6996
@@ -42206,6 +42350,10 @@
   "84366728": {
     "name": "Vanguard of the Underground Emperor",
     "tsdvalue": 22963
+  },
+  "84384943": {
+    "name": "Cabrera Stone",
+    "tsdvalue": 23841
   },
   "84385264": {
     "name": "Lycanthrope",
@@ -42610,6 +42758,10 @@
   "85103922": {
     "name": "Artifact Moralltach",
     "tsdvalue": 6990
+  },
+  "85106525": {
+    "name": "Bonfire",
+    "tsdvalue": 23838
   },
   "85115440": {
     "name": "Zoodiac Broadbull",
@@ -43134,6 +43286,10 @@
   "86238081": {
     "name": "Odd-Eyes Raging Dragon",
     "tsdvalue": 17371
+  },
+  "86239173": {
+    "name": "Horned Saurus",
+    "tsdvalue": 23835
   },
   "86240887": {
     "name": "Buster Blader, the Dragon Destroyer Swordsman",
