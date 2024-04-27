@@ -471,6 +471,10 @@
     "name": "Parallel Port Armor",
     "tsdvalue": 18044
   },
+  "885016": {
+    "name": "Multi-Universe",
+    "tsdvalue": 24054
+  },
   "897409": {
     "name": "Galaxy Hundred",
     "tsdvalue": 23277
@@ -846,6 +850,10 @@
   "1596508": {
     "name": "Dimension Fortress Weapon",
     "tsdvalue": 3021
+  },
+  "1607603": {
+    "name": "Double Dai",
+    "tsdvalue": 24051
   },
   "1621413": {
     "name": "Dark Requiem Xyz Dragon",
@@ -1242,6 +1250,10 @@
   "2333365": {
     "name": "Tyr of the Nordic Champions",
     "tsdvalue": 4169
+  },
+  "2333466": {
+    "name": "Gandora-G the Dragon of Destruction",
+    "tsdvalue": 23970
   },
   "2339825": {
     "name": "T.G. Close",
@@ -2163,6 +2175,10 @@
     "name": "Zombie World",
     "tsdvalue": 2836
   },
+  "4064925": {
+    "name": "Ancient Gear Advance",
+    "tsdvalue": 24023
+  },
   "4068622": {
     "name": "Blackwing - Aurora the Northern Lights",
     "tsdvalue": 3846
@@ -2534,6 +2550,10 @@
   "4837861": {
     "name": "Meklord Astro Dragon Triskelion",
     "tsdvalue": 19908
+  },
+  "4841383": {
+    "name": "Ragnaraika Bloom",
+    "tsdvalue": 24026
   },
   "4848423": {
     "name": "Muscle Medic",
@@ -3026,6 +3046,10 @@
   "5780210": {
     "name": "Creation Resonator",
     "tsdvalue": 3850
+  },
+  "5786513": {
+    "name": "Turn Silence",
+    "tsdvalue": 24020
   },
   "5795882": {
     "name": "Vampire's Domain",
@@ -3579,6 +3603,10 @@
     "name": "Power Breaker",
     "tsdvalue": 3901
   },
+  "6908161": {
+    "name": "Ragnaraika Chain Coils",
+    "tsdvalue": 24017
+  },
   "6909330": {
     "name": "Soul Binding Gate",
     "tsdvalue": 20665
@@ -3622,6 +3650,10 @@
   "7019529": {
     "name": "Insect Soldiers of the Sky",
     "tsdvalue": 1374
+  },
+  "7020743": {
+    "name": "Tantrum Toddler",
+    "tsdvalue": 24014
   },
   "7021574": {
     "name": "Kuriboo",
@@ -4359,6 +4391,10 @@
     "name": "Scrap Fist",
     "tsdvalue": 16490
   },
+  "8540986": {
+    "name": "Veidos the Dragon of Endless Darkness",
+    "tsdvalue": 24060
+  },
   "8559524": {
     "name": "Resonator Command",
     "tsdvalue": 19645
@@ -5027,6 +5063,10 @@
     "name": "Hot Red Dragon Archfiend Abyss",
     "tsdvalue": 16512
   },
+  "9763474": {
+    "name": "Haggard Lizardose",
+    "tsdvalue": 24057
+  },
   "9765723": {
     "name": "Dark Contract with the Witch",
     "tsdvalue": 16630
@@ -5594,6 +5634,10 @@
   "10802916": {
     "name": "Tour Guide From the Underworld",
     "tsdvalue": 4297
+  },
+  "10804018": {
+    "name": "Saffira, Divine Dragon of the Voiceless Voice",
+    "tsdvalue": 24002
   },
   "10805153": {
     "name": "Witchcrafter Collaboration",
@@ -9651,6 +9695,10 @@
     "name": "Power Invader",
     "tsdvalue": 3353
   },
+  "18843291": {
+    "name": "Minerva, the Athenian Lightsworn",
+    "tsdvalue": 24011
+  },
   "18847598": {
     "name": "Advanced Crystal Beast Amber Mammoth",
     "tsdvalue": 23149
@@ -9714,6 +9762,10 @@
   "18967507": {
     "name": "Cyberdarkness Dragon",
     "tsdvalue": 17914
+  },
+  "18969888": {
+    "name": "Sangenpai Transcendent Dragion",
+    "tsdvalue": 24008
   },
   "18973184": {
     "name": "Branded Lost",
@@ -9810,6 +9862,10 @@
   "19163116": {
     "name": "Gem-Knight Obsidian",
     "tsdvalue": 4990
+  },
+  "19181420": {
+    "name": "Mementotlan Twin Dragon",
+    "tsdvalue": 24005
   },
   "19182751": {
     "name": "Genex Neutron",
@@ -10766,6 +10822,10 @@
   "21015833": {
     "name": "Hayabusa Knight",
     "tsdvalue": 1276
+  },
+  "21036656": {
+    "name": "Cyclos the Circular Sprite",
+    "tsdvalue": 23999
   },
   "21044178": {
     "name": "Abyss Dweller",
@@ -11755,6 +11815,10 @@
     "name": "Dimensionhole",
     "tsdvalue": 730
   },
+  "22970795": {
+    "name": "Wightlord",
+    "tsdvalue": 23994
+  },
   "22991179": {
     "name": "Insect Neglect",
     "tsdvalue": 3181
@@ -11806,6 +11870,10 @@
   "23087070": {
     "name": "Rose Witch",
     "tsdvalue": 5956
+  },
+  "23093373": {
+    "name": "Selettrice Vaalmonica",
+    "tsdvalue": 23991
   },
   "23093604": {
     "name": "X-Saber Pashuul",
@@ -12455,6 +12523,10 @@
     "name": "The Phantom Knights of Dark Gauntlets",
     "tsdvalue": 16810
   },
+  "24215921": {
+    "name": "Gruesome Grave Squirmer",
+    "tsdvalue": 23988
+  },
   "24218047": {
     "name": "Unmasked Dragon",
     "tsdvalue": 11155
@@ -12831,6 +12903,10 @@
     "name": "Rose Bud",
     "tsdvalue": 2126
   },
+  "25096909": {
+    "name": "Simultaneous Equation Cannons",
+    "tsdvalue": 24048
+  },
   "25109950": {
     "name": "The Little Swordsman of Aile",
     "tsdvalue": 2513
@@ -12906,6 +12982,10 @@
   "25209168": {
     "name": "Exchange of Despair and Hope",
     "tsdvalue": 23125
+  },
+  "25218587": {
+    "name": "Lightsworn Aegis",
+    "tsdvalue": 24045
   },
   "25221249": {
     "name": "Battlewasp - Nest",
@@ -13483,6 +13563,10 @@
     "name": "Constellar Omega",
     "tsdvalue": 5542
   },
+  "26334139": {
+    "name": "Sinful Spoils Subdual",
+    "tsdvalue": 24042
+  },
   "26345570": {
     "name": "Chronomaly Pyramid Eye Tablet",
     "tsdvalue": 5076
@@ -13558,6 +13642,10 @@
   "26534688": {
     "name": "Magellanica, the Deep Sea City",
     "tsdvalue": 19833
+  },
+  "26548709": {
+    "name": "Ragnaraika Samurai Beetle",
+    "tsdvalue": 23983
   },
   "26556950": {
     "name": "Number 84: Pain Gainer",
@@ -13863,6 +13951,10 @@
     "name": "Dino-Sewing",
     "tsdvalue": 17278
   },
+  "27157727": {
+    "name": "Stronghold the Hidden Fortress",
+    "tsdvalue": 24039
+  },
   "27157996": {
     "name": "Appliancer Conversion",
     "tsdvalue": 20687
@@ -13918,6 +14010,10 @@
   "27243130": {
     "name": "Forbidden Lance",
     "tsdvalue": 4031
+  },
+  "27260347": {
+    "name": "Snake-Eyes Diabellstar",
+    "tsdvalue": 23980
   },
   "27275398": {
     "name": "Gold Pride - Pedal to the Metal!",
@@ -14006,6 +14102,10 @@
   "27450400": {
     "name": "Cosmic Compass",
     "tsdvalue": 3991
+  },
+  "27483935": {
+    "name": "Ancient Gear Commander",
+    "tsdvalue": 23977
   },
   "27491571": {
     "name": "Ghostrick Witch",
@@ -14414,6 +14514,10 @@
   "28270534": {
     "name": "FA.I.ghting Spirit",
     "tsdvalue": 20684
+  },
+  "28279365": {
+    "name": "Blink Out",
+    "tsdvalue": 24036
   },
   "28279543": {
     "name": "Curse of Dragon",
@@ -15451,6 +15555,10 @@
     "name": "Gishki Psychelone",
     "tsdvalue": 5413
   },
+  "30336082": {
+    "name": "Sangen Summoning",
+    "tsdvalue": 24027
+  },
   "30338466": {
     "name": "Bujin Regalia - The Sword",
     "tsdvalue": 5713
@@ -16031,6 +16139,10 @@
     "name": "Evilswarm Golem",
     "tsdvalue": 5410
   },
+  "31458630": {
+    "name": "Melodious Concerto",
+    "tsdvalue": 24024
+  },
   "31461282": {
     "name": "Miracle Stone",
     "tsdvalue": 18976
@@ -16474,6 +16586,10 @@
   "32269855": {
     "name": "The All-Seeing White Tiger",
     "tsdvalue": 2472
+  },
+  "32270212": {
+    "name": "Ties That Bind",
+    "tsdvalue": 24021
   },
   "32271987": {
     "name": "Featherizer",
@@ -17819,6 +17935,10 @@
     "name": "Melffy Pinny",
     "tsdvalue": 22897
   },
+  "34813443": {
+    "name": "Ashened to Endlessness",
+    "tsdvalue": 24064
+  },
   "34813545": {
     "name": "Naturia Blessing",
     "tsdvalue": 23078
@@ -17935,6 +18055,10 @@
     "name": "Paleozoic Olenoides",
     "tsdvalue": 17099
   },
+  "35035985": {
+    "name": "Embers of the Ashened",
+    "tsdvalue": 24061
+  },
   "35037880": {
     "name": "Saber Reflection",
     "tsdvalue": 17275
@@ -17998,6 +18122,10 @@
   "35149085": {
     "name": "Beast Soul Swap",
     "tsdvalue": 211
+  },
+  "35151572": {
+    "name": "Shaman of the Ashened City",
+    "tsdvalue": 24058
   },
   "35183584": {
     "name": "World Legacy Guardragon Mardark",
@@ -18755,6 +18883,10 @@
     "name": "Ally of Justice Core Destroyer",
     "tsdvalue": 3605
   },
+  "36629635": {
+    "name": "Dandy Whitelion",
+    "tsdvalue": 23966
+  },
   "36630403": {
     "name": "Shiranui Spectralsword",
     "tsdvalue": 16685
@@ -18915,6 +19047,10 @@
     "name": "PSY-Frame Overload",
     "tsdvalue": 16532
   },
+  "36974120": {
+    "name": "Vouiburial, the Dragon Undertaker",
+    "tsdvalue": 24055
+  },
   "36975314": {
     "name": "Crackdown",
     "tsdvalue": 18931
@@ -18930,6 +19066,10 @@
   "36996508": {
     "name": "Dark Magician",
     "tsdvalue": 2992
+  },
+  "37006702": {
+    "name": "Krishnerd Witch",
+    "tsdvalue": 24052
   },
   "37007105": {
     "name": "Cybersal Cyclone",
@@ -19731,6 +19871,10 @@
     "name": "Junkuriboh",
     "tsdvalue": 16797
   },
+  "38491852": {
+    "name": "Vaalmonica Invitare",
+    "tsdvalue": 24033
+  },
   "38492752": {
     "name": "Laval Cannon",
     "tsdvalue": 4856
@@ -19742,6 +19886,10 @@
   "38502358": {
     "name": "Mekk-Knight Spectrum Supreme",
     "tsdvalue": 18025
+  },
+  "38505587": {
+    "name": "Moremarshmallon",
+    "tsdvalue": 23974
   },
   "38511382": {
     "name": "Sinful Spoils of Betrayal - Silvera",
@@ -20051,6 +20199,10 @@
     "name": "Tri-Horned Dragon",
     "tsdvalue": 2618
   },
+  "39114494": {
+    "name": "Blessing of the Voiceless Voice",
+    "tsdvalue": 24030
+  },
   "39118197": {
     "name": "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
     "tsdvalue": 3877
@@ -20158,6 +20310,10 @@
   "39317553": {
     "name": "Drill Driver Vespenato",
     "tsdvalue": 19821
+  },
+  "39321065": {
+    "name": "Silent Swordsman Zero",
+    "tsdvalue": 23971
   },
   "39343610": {
     "name": "Darkblaze Dragon",
@@ -20446,6 +20602,10 @@
   "39915560": {
     "name": "Starving Venom Predapower Fusion Dragon",
     "tsdvalue": 22777
+  },
+  "39931513": {
+    "name": "Tenpai Dragon Paidra",
+    "tsdvalue": 23985
   },
   "39943352": {
     "name": "Daidaratant the Ooze Giant",
@@ -21719,6 +21879,10 @@
     "name": "Reptilianne Viper",
     "tsdvalue": 3403
   },
+  "42307760": {
+    "name": "Ragnaraika Stag Sovereign",
+    "tsdvalue": 24018
+  },
   "42309337": {
     "name": "Counter Counter",
     "tsdvalue": 454
@@ -22111,6 +22275,10 @@
     "name": "Gem-Knight Sardonyx",
     "tsdvalue": 5140
   },
+  "43129357": {
+    "name": "Ragnaraika Skeletal Soldier",
+    "tsdvalue": 24015
+  },
   "43138260": {
     "name": "Xyz Remora",
     "tsdvalue": 5294
@@ -22306,6 +22474,10 @@
   "43500484": {
     "name": "Darkworld Thorns",
     "tsdvalue": 630
+  },
+  "43502497": {
+    "name": "Pendulum Witch",
+    "tsdvalue": 23967
   },
   "43509019": {
     "name": "Toon Defense",
@@ -22702,6 +22874,10 @@
   "44236692": {
     "name": "Necro Linker",
     "tsdvalue": 3899
+  },
+  "44241999": {
+    "name": "Goblin Biker Troika Griare",
+    "tsdvalue": 24012
   },
   "44250812": {
     "name": "Gagaga Clerk",
@@ -23335,6 +23511,10 @@
     "name": "Dark Red Enchanter",
     "tsdvalue": 2996
   },
+  "45464587": {
+    "name": "Gold Pride - Eradicator",
+    "tsdvalue": 24009
+  },
   "45467446": {
     "name": "Dragon Spirit of White",
     "tsdvalue": 16847
@@ -23718,6 +23898,10 @@
   "46181000": {
     "name": "Frontline Base",
     "tsdvalue": 3110
+  },
+  "46186135": {
+    "name": "Enlightenment Dragon",
+    "tsdvalue": 24006
   },
   "46195773": {
     "name": "Turbo Warrior",
@@ -24747,6 +24931,10 @@
     "name": "Compulsory Escape Device",
     "tsdvalue": 5095
   },
+  "48228390": {
+    "name": "Pyrite Knight",
+    "tsdvalue": 24049
+  },
   "48229808": {
     "name": "Horus the Black Flame Dragon LV8",
     "tsdvalue": 1326
@@ -24954,6 +25142,10 @@
   "48653261": {
     "name": "Guard Penalty",
     "tsdvalue": 1228
+  },
+  "48654267": {
+    "name": "Supreme King Z-ARC - Synchro Universe",
+    "tsdvalue": 23968
   },
   "48654323": {
     "name": "White Relic of Dogmatika",
@@ -26859,6 +27051,10 @@
     "name": "Second Expedition into Danger!",
     "tsdvalue": 18565
   },
+  "52543404": {
+    "name": "Ragnaraika Armored Lizard",
+    "tsdvalue": 23984
+  },
   "52550973": {
     "name": "Pharaoh's Servant",
     "tsdvalue": 1927
@@ -26902,6 +27098,10 @@
   "52601736": {
     "name": "Inzektor Hopper",
     "tsdvalue": 4770
+  },
+  "52607696": {
+    "name": "Mirage Mirror Force",
+    "tsdvalue": 24046
   },
   "52615248": {
     "name": "Progleo",
@@ -27299,6 +27499,10 @@
     "name": "Garden Rose Maiden",
     "tsdvalue": 18639
   },
+  "53329234": {
+    "name": "Sinful Spoils of Slumber - Morrian",
+    "tsdvalue": 24043
+  },
   "53330789": {
     "name": "Vanquish Soul Trinity Burst",
     "tsdvalue": 23481
@@ -27411,6 +27615,10 @@
     "name": "Wind-Up Warrior",
     "tsdvalue": 4548
   },
+  "53541822": {
+    "name": "Ancient Gear Duel",
+    "tsdvalue": 24040
+  },
   "53550467": {
     "name": "Noble Knight Drystan",
     "tsdvalue": 5697
@@ -27522,6 +27730,10 @@
   "53754104": {
     "name": "Guard Mantis",
     "tsdvalue": 23528
+  },
+  "53765052": {
+    "name": "Diabellze the Original Sinkeeper",
+    "tsdvalue": 23981
   },
   "53776525": {
     "name": "Gigobyte",
@@ -28767,6 +28979,10 @@
     "name": "Guard Ghost",
     "tsdvalue": 19458
   },
+  "56208713": {
+    "name": "Bacha the Melodious Maestra",
+    "tsdvalue": 24003
+  },
   "56209279": {
     "name": "Infernity Necromancer",
     "tsdvalue": 3176
@@ -29415,6 +29631,10 @@
     "name": "Dragonmaid Tidying",
     "tsdvalue": 19850
   },
+  "57420265": {
+    "name": "Fishborg Harpooner",
+    "tsdvalue": 24000
+  },
   "57421866": {
     "name": "Level Eater",
     "tsdvalue": 3227
@@ -29778,6 +29998,10 @@
   "58143766": {
     "name": "Volcanic Emission",
     "tsdvalue": 23659
+  },
+  "58143852": {
+    "name": "Nightmare Apprentice",
+    "tsdvalue": 23997
   },
   "58147549": {
     "name": "Masked HERO Goka",
@@ -30391,6 +30615,10 @@
     "name": "Deskbot 002",
     "tsdvalue": 10118
   },
+  "59369430": {
+    "name": "Golgoil the Steel Seismic Smasher",
+    "tsdvalue": 23995
+  },
   "59371387": {
     "name": "The Resolute Meklord Army",
     "tsdvalue": 4296
@@ -30442,6 +30670,10 @@
   "59479050": {
     "name": "Number 71: Rebarian Shark",
     "tsdvalue": 17792
+  },
+  "59481082": {
+    "name": "Lightsworn Dragonling",
+    "tsdvalue": 23992
   },
   "59482302": {
     "name": "Ally Salvo",
@@ -30798,6 +31030,10 @@
   "60202749": {
     "name": "Abyss-sphere",
     "tsdvalue": 5249
+  },
+  "60203670": {
+    "name": "Gold Pride - Eliminator",
+    "tsdvalue": 23989
   },
   "60222213": {
     "name": "Raphion, the Timelord",
@@ -31415,6 +31651,10 @@
     "name": "Paleozoic Hallucigenia",
     "tsdvalue": 17100
   },
+  "61434639": {
+    "name": "Rekindling the Ashened",
+    "tsdvalue": 24062
+  },
   "61441708": {
     "name": "Sacred Phoenix of Nephthys",
     "tsdvalue": 2146
@@ -31750,6 +31990,10 @@
   "62154416": {
     "name": "Frequency Magician",
     "tsdvalue": 1022
+  },
+  "62156277": {
+    "name": "Spearhead of the Ashened City",
+    "tsdvalue": 24059
   },
   "62161698": {
     "name": "Illusion Balloons",
@@ -32355,6 +32599,10 @@
     "name": "Goyo Chaser",
     "tsdvalue": 16510
   },
+  "63378869": {
+    "name": "Aiza the Dragoness of Deranged Devotion",
+    "tsdvalue": 24056
+  },
   "63391643": {
     "name": "Thousand Knives",
     "tsdvalue": 2558
@@ -32943,6 +33191,10 @@
     "name": "Chimeratech Overdragon",
     "tsdvalue": 378
   },
+  "64603182": {
+    "name": "Ancient Gear Dark Golem",
+    "tsdvalue": 23975
+  },
   "64605089": {
     "name": "Swordsman of Revealing Light",
     "tsdvalue": 14217
@@ -32974,6 +33226,10 @@
   "64662453": {
     "name": "Iron Call",
     "tsdvalue": 5423
+  },
+  "64664373": {
+    "name": "Metaltronus",
+    "tsdvalue": 24037
   },
   "64681263": {
     "name": "Localized Tornado",
@@ -33070,6 +33326,10 @@
   "64880894": {
     "name": "Stardust Charge Warrior",
     "tsdvalue": 16799
+  },
+  "64881644": {
+    "name": "Refrain the Melodious Songstress",
+    "tsdvalue": 23978
   },
   "64892035": {
     "name": "Tardy Orc",
@@ -33275,6 +33535,10 @@
     "name": "Sadion, the Timelord",
     "tsdvalue": 17656
   },
+  "65326118": {
+    "name": "Tenpai Dragon Fadra",
+    "tsdvalue": 23986
+  },
   "65330383": {
     "name": "Knightmare Gryphon",
     "tsdvalue": 18158
@@ -33379,6 +33643,10 @@
     "name": "Codarus",
     "tsdvalue": 2963
   },
+  "65496951": {
+    "name": "Vaalmonica Disarmonia",
+    "tsdvalue": 24034
+  },
   "65500515": {
     "name": "Squirt Squid",
     "tsdvalue": 18681
@@ -33470,6 +33738,10 @@
   "65711558": {
     "name": "Ancient Warriors Oath - Double Dragon Lords",
     "tsdvalue": 19822
+  },
+  "65726770": {
+    "name": "Silent Magician Zero",
+    "tsdvalue": 23972
   },
   "65734501": {
     "name": "Rescue-ACE Air Lifter",
@@ -33831,6 +34103,10 @@
     "name": "Serpent Night Dragon",
     "tsdvalue": 2198
   },
+  "66518509": {
+    "name": "Mementotlan Fusion",
+    "tsdvalue": 24031
+  },
   "66518841": {
     "name": "Prideful Roar",
     "tsdvalue": 1967
@@ -33942,6 +34218,10 @@
   "66729231": {
     "name": "Gishki Zielgigas",
     "tsdvalue": 5414
+  },
+  "66730191": {
+    "name": "Sangen Kaimen",
+    "tsdvalue": 24028
   },
   "66733743": {
     "name": "T.G. Metal Skeleton",
@@ -34318,6 +34598,10 @@
   "67445676": {
     "name": "Pinecono",
     "tsdvalue": 4533
+  },
+  "67457739": {
+    "name": "Sinful Spoils Struggle",
+    "tsdvalue": 24025
   },
   "67464807": {
     "name": "Dora of Fate",
@@ -35827,6 +36111,10 @@
     "name": "Tool Box",
     "tsdvalue": 23154
   },
+  "70514456": {
+    "name": "Ragnaraika Mantis Monk",
+    "tsdvalue": 24016
+  },
   "70534340": {
     "name": "Lubellion the Searing Dragon",
     "tsdvalue": 21708
@@ -35874,6 +36162,10 @@
   "70630741": {
     "name": "Rescue Warrior",
     "tsdvalue": 3907
+  },
+  "70636044": {
+    "name": "Varudras, the Final Bringer of the End Times",
+    "tsdvalue": 24013
   },
   "70645913": {
     "name": "Vampire Retainer",
@@ -36502,6 +36794,10 @@
   "71832012": {
     "name": "Pressured Planet Wraitsoth",
     "tsdvalue": 23285
+  },
+  "71858682": {
+    "name": "Centur-Ion Auxila",
+    "tsdvalue": 24010
   },
   "71861848": {
     "name": "Salamangreat Coyote",
@@ -37327,6 +37623,10 @@
     "name": "Vindikite R-Genex",
     "tsdvalue": 4173
   },
+  "73490417": {
+    "name": "Jungle Dweller",
+    "tsdvalue": 24053
+  },
   "73507661": {
     "name": "Fairy Wind",
     "tsdvalue": 3076
@@ -37675,6 +37975,10 @@
     "name": "Infernity Wildcat",
     "tsdvalue": 19942
   },
+  "74150658": {
+    "name": "Talons of Shurilane",
+    "tsdvalue": 24065
+  },
   "74153887": {
     "name": "Dark Scorpion - Meanae the Thorn",
     "tsdvalue": 612
@@ -37710,6 +38014,10 @@
   "74210057": {
     "name": "Texchanger",
     "tsdvalue": 18297
+  },
+  "74213995": {
+    "name": "Battleguard Echoes",
+    "tsdvalue": 24050
   },
   "74218258": {
     "name": "The Weather Rainbowed Canvas",
@@ -37890,6 +38198,10 @@
   "74644400": {
     "name": "Psi-Reflector",
     "tsdvalue": 18865
+  },
+  "74652966": {
+    "name": "Code of Soul",
+    "tsdvalue": 23969
   },
   "74657662": {
     "name": "Vylon Material",
@@ -39859,6 +40171,10 @@
     "name": "Ancient Chant",
     "tsdvalue": 19904
   },
+  "78679226": {
+    "name": "Future Silence",
+    "tsdvalue": 24022
+  },
   "78697395": {
     "name": "The Third Sarcophagus",
     "tsdvalue": 2537
@@ -40342,6 +40658,10 @@
   "79785958": {
     "name": "Evilswarm Castor",
     "tsdvalue": 5405
+  },
+  "79791878": {
+    "name": "Shining Sarcophagus",
+    "tsdvalue": 24019
   },
   "79794767": {
     "name": "Amorphage Wrath",
@@ -41803,6 +42123,10 @@
     "name": "Taotie Dragon",
     "tsdvalue": 19666
   },
+  "82570174": {
+    "name": "Sangenpai Bident Dragion",
+    "tsdvalue": 24007
+  },
   "82579942": {
     "name": "Lightray Madoor",
     "tsdvalue": 5103
@@ -42387,6 +42711,10 @@
     "name": "Foolish Revival",
     "tsdvalue": 1006
   },
+  "83793721": {
+    "name": "Flowering Etoile the Melodious Magnificat",
+    "tsdvalue": 24004
+  },
   "83810690": {
     "name": "X-Saber Wayne",
     "tsdvalue": 5128
@@ -42394,6 +42722,10 @@
   "83812099": {
     "name": "Flint Lock",
     "tsdvalue": 994
+  },
+  "83819309": {
+    "name": "Cooling Embers",
+    "tsdvalue": 24001
   },
   "83827392": {
     "name": "Expurrely Noir",
@@ -42814,6 +43146,10 @@
   "84620194": {
     "name": "Girochin Kuwagata",
     "tsdvalue": 1111
+  },
+  "84631951": {
+    "name": "Dinovatus Docus",
+    "tsdvalue": 23998
   },
   "84636823": {
     "name": "Spell Canceller",
@@ -43374,6 +43710,10 @@
   "85747929": {
     "name": "Galaxy Photon Dragon",
     "tsdvalue": 23270
+  },
+  "85753549": {
+    "name": "Mikazukinoyaiba, the Moon Fang Dragon",
+    "tsdvalue": 23996
   },
   "85754829": {
     "name": "Worm Gulse",
@@ -44435,6 +44775,10 @@
     "name": "Rasterliger",
     "tsdvalue": 19163
   },
+  "88001391": {
+    "name": "Zoma the Earthbound Spirit",
+    "tsdvalue": 24047
+  },
   "88021907": {
     "name": "Primathmech Laplacian",
     "tsdvalue": 19313
@@ -45319,6 +45663,10 @@
     "name": "Flower Cardian Willow with Calligrapher",
     "tsdvalue": 17140
   },
+  "89824842": {
+    "name": "Ragnaraika Hunting Dance",
+    "tsdvalue": 24044
+  },
   "89839552": {
     "name": "Puppet Pawn",
     "tsdvalue": 23529
@@ -45514,6 +45862,10 @@
   "90263923": {
     "name": "Leeching the Light",
     "tsdvalue": 3668
+  },
+  "90276649": {
+    "name": "Couplet the Melodious Songstress",
+    "tsdvalue": 23979
   },
   "90290572": {
     "name": "Protector of The Agents - Moon",
@@ -45863,6 +46215,10 @@
     "name": "Infestation Terminus",
     "tsdvalue": 5427
   },
+  "90946420": {
+    "name": "Goblin Biker Grand Pileup",
+    "tsdvalue": 24041
+  },
   "90951921": {
     "name": "Chronomaly Technology",
     "tsdvalue": 5075
@@ -45922,6 +46278,10 @@
   "91078716": {
     "name": "Pollinosis",
     "tsdvalue": 1950
+  },
+  "91098230": {
+    "name": "Ancient Gear Tanker",
+    "tsdvalue": 23976
   },
   "91107093": {
     "name": "Electromagnetic Shield",
@@ -46219,6 +46579,10 @@
     "name": "Security Block",
     "tsdvalue": 17851
   },
+  "91668078": {
+    "name": "In Papa's Footsteps",
+    "tsdvalue": 24038
+  },
   "91668401": {
     "name": "Cyber Angel Izana",
     "tsdvalue": 18634
@@ -46295,6 +46659,10 @@
     "name": "Dimension Shifter",
     "tsdvalue": 19170
   },
+  "91810826": {
+    "name": "Tenpai Dragon Chundra",
+    "tsdvalue": 23987
+  },
   "91812341": {
     "name": "Traptrix Myrmeleo",
     "tsdvalue": 5651
@@ -46330,6 +46698,10 @@
   "91870448": {
     "name": "Psychic Megacyber",
     "tsdvalue": 19917
+  },
+  "91880660": {
+    "name": "Way Where There's a Will",
+    "tsdvalue": 24035
   },
   "91895091": {
     "name": "Soul of Silvermountain",
@@ -46458,6 +46830,10 @@
   "92107604": {
     "name": "Runick Fountain",
     "tsdvalue": 23002
+  },
+  "92110878": {
+    "name": "Gadget Trio",
+    "tsdvalue": 23973
   },
   "92125819": {
     "name": "Noble Knight Artorigus",
@@ -46830,6 +47206,10 @@
   "92901944": {
     "name": "Scrap Searcher",
     "tsdvalue": 3912
+  },
+  "92907248": {
+    "name": "Wake Up Centur-Ion!",
+    "tsdvalue": 24032
   },
   "92918648": {
     "name": "Hierophant of Prophecy",
@@ -47242,6 +47622,10 @@
   "93729065": {
     "name": "Starving Venemy Dragon",
     "tsdvalue": 20677
+  },
+  "93729896": {
+    "name": "Nightmare Throne",
+    "tsdvalue": 24029
   },
   "93730230": {
     "name": "Chronomaly Crystal Chrononaut",
@@ -48663,6 +49047,10 @@
     "name": "Ehther the Heavenly Monarch",
     "tsdvalue": 16752
   },
+  "96576187": {
+    "name": "Weiss, Lightsworn Archfiend",
+    "tsdvalue": 23993
+  },
   "96592102": {
     "name": "Raidraptor - Blade Burner Falcon",
     "tsdvalue": 17108
@@ -49187,6 +49575,10 @@
     "name": "Flying Saucer Muusik'i",
     "tsdvalue": 1001
   },
+  "97698279": {
+    "name": "Centur-Ion Gargoyle II",
+    "tsdvalue": 23990
+  },
   "97705809": {
     "name": "Supercharge",
     "tsdvalue": 2413
@@ -49699,6 +50091,10 @@
     "name": "The Phantom Knights of Shade Brigandine",
     "tsdvalue": 16809
   },
+  "98828338": {
+    "name": "Extinguishing the Ashened",
+    "tsdvalue": 24063
+  },
   "98847704": {
     "name": "Release Restraint Wave",
     "tsdvalue": 3389
@@ -49858,6 +50254,10 @@
   "99150062": {
     "name": "Naturia Antjaw",
     "tsdvalue": 4096
+  },
+  "99153051": {
+    "name": "Ragnaraika the Evil Seed",
+    "tsdvalue": 23982
   },
   "99157310": {
     "name": "Tindangle Delaunay",
