@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decklist Autofiller Guide</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            box-sizing: border-box;
+            padding: 10px 10px auto;
+        }
+
+        h1 {
+            color: #333333;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        h2 {
+            color: #333333;
+            text-align: left;
+        }
+        
+        h3 {
+            color: #333333;
+            text-align: left;
+        }
+
+        .background {
+            background-color: rgba(0, 255, 170, 0);
+            box-shadow: none;
+        }
+
+        .leftdivision {
+            float: left;
+            width: 48vw;
+            text-align: left;
+            padding: 10px 25px 10px 25px;
+        }
+
+        .rightdivision {
+            float: right;
+            width: 48vw;
+            text-align: left;
+            padding: 10px 25px 10px 25px;
+        }
+
+        .centerdivision {
+            padding: 10px 25px 10px 25px;
+        }
+
+        #guide-img {
+            width: 40vw;
+        }
+
+        #guide-vid {
+            width: 40vw;
+            height: 22vw;
+        }
+
+        div {
+            margin: auto auto 1.5vw;
+            width: 98vw;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+            padding: 10px 10px auto;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="background">
+        <h1>Decklist Auto-Filler Guide</h1>
+        <div class="centerdivision">
+            <iframe id="guide-img" width="840" height="470" src="https://www.youtube.com/embed/V14j-9ZWNk4?si=2kfz835ceByS8MM1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div class="leftdivision">
+            <h2>1. Obtain the YDKE String:</h2>
+    
+            <h3>Duelingbook:</h3>
+            <p>Navigate to your deck, click "Export Deck", select "YDK Code" from the drop-down menu, then click "OK".</p>
+            <img id="guide-img" src="dbguide.png"></img><br>
+            
+            <h3>EDOPro:</h2>
+            <p>Navigate to your deck, click "YDKE", then click "Export".</p>
+            <img id="guide-img" src="edoproguide.png"></img><br><br>
+        </div>
+        <div class="rightdivision">
+            <h2>2. Autofilling Decklists:</h2>
+    
+            <p>1. Navigate to the "Create Deck List" page on the registration website, and enter a title for the deck you are importing.</p>
+            <p>2. Next, open the Decklist Auto-Filler extension, paste your copied YDKE string in the box, then click "Autofill".</p>
+            <p>3. Now, wait for the extension to import the cards from your YDKE into the Decklist form. Once prompted to refresh the page, click the browser's Refresh button.</p>
+            <img id="guide-img" src="registrationguide.png"></img><br><br>
+        </div>        
+    </div>
+</body>
+</html>
