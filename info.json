@@ -2,5 +2,7 @@
   "latest_version" : "0.3.0",
   "latest_set" : "LEDE",
   "help" : "https://objectorientedcodetalker.github.io/decklistautofiller_webpages/help/help.html",
-  "feedback_link" : "https://docs.google.com/forms/d/e/1FAIpQLSeb2ylBg7E3AB79mTiUbNvvCsRrD4P424EwMS2IEOv0aljycQ/viewform?usp=sf_link"
+  "welcome" : "https://objectorientedcodetalker.github.io/decklistautofiller_webpages/welcome/onboarding.html"
+  "feedback_link" : "https://docs.google.com/forms/d/e/1FAIpQLSeb2ylBg7E3AB79mTiUbNvvCsRrD4P424EwMS2IEOv0aljycQ/viewform?usp=sf_link",
+  "store_link" : "https://chromewebstore.google.com/u/3/detail/decklist-auto-filler/knjanhkpoicpjebbkpcnbinkbdhhpfld?hl=en"
 }
