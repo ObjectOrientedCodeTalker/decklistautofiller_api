@@ -679,6 +679,10 @@
     "name": "Gem-Knight Fusion",
     "tsdvalue": 4654
   },
+  "1269512": {
+    "name": "Full Armored Utopic Ray Lancer",
+    "tsdvalue": 24086
+  },
   "1274455": {
     "name": "Kozmo Soartroopers",
     "tsdvalue": 16735
@@ -4215,6 +4219,10 @@
     "name": "Number 90: Galaxy-Eyes Photon Lord",
     "tsdvalue": 18283
   },
+  "8173184": {
+    "name": "Repair Genex Controller",
+    "tsdvalue": 24072
+  },
   "8175346": {
     "name": "Poki Draco",
     "tsdvalue": 4433
@@ -4727,6 +4735,10 @@
     "name": "Performapal Gongato",
     "tsdvalue": 17008
   },
+  "9107531": {
+    "name": "Electro Blaster",
+    "tsdvalue": 24111
+  },
   "9109991": {
     "name": "Blackwing - Fane the Steel Chain",
     "tsdvalue": 2921
@@ -4874,6 +4886,10 @@
   "9391354": {
     "name": "Gravi-Crush Dragon",
     "tsdvalue": 1202
+  },
+  "9396662": {
+    "name": "Mirror Mage of the Ice Barrier",
+    "tsdvalue": 24069
   },
   "9400127": {
     "name": "Flogos, the Ogdoadic Boundless",
@@ -5626,6 +5642,10 @@
   "10793085": {
     "name": "Tri-Brigade Roar",
     "tsdvalue": 23419
+  },
+  "10796448": {
+    "name": "Ace?Spades Speculation",
+    "tsdvalue": "24101"
   },
   "10802915": {
     "name": "Tour Guide From the Underworld",
@@ -6410,6 +6430,10 @@
   "12369277": {
     "name": "Super Quantum Blue Layer",
     "tsdvalue": 16785
+  },
+  "12381100": {
+    "name": "Dragon Master Magia",
+    "tsdvalue": 24083
   },
   "12385638": {
     "name": "Kozmourning",
@@ -9927,6 +9951,10 @@
     "name": "Tellus the Little Angel",
     "tsdvalue": 20367
   },
+  "19299793": {
+    "name": "Red Lotus King, Flame Crime",
+    "tsdvalue": 24112
+  },
   "19301729": {
     "name": "Digital Bug Registrider",
     "tsdvalue": 20128
@@ -10271,6 +10299,10 @@
     "name": "Iron Chain Dragon",
     "tsdvalue": 1391
   },
+  "19974890": {
+    "name": "Bunch of Beast Bodies",
+    "tsdvalue": 24104
+  },
   "19980975": {
     "name": "Diamond-Dust Cyclone",
     "tsdvalue": 714
@@ -10470,6 +10502,10 @@
   "20351153": {
     "name": "Hypnocorn",
     "tsdvalue": 3764
+  },
+  "20357457": {
+    "name": "Pillar of the Future - Cyanos",
+    "tsdvalue": 24098
   },
   "20358953": {
     "name": "Shark Cruiser",
@@ -10951,6 +10987,10 @@
     "name": "Pale Beast",
     "tsdvalue": 1891
   },
+  "21291696": {
+    "name": "Electrode Beast Cation",
+    "tsdvalue": 24092
+  },
   "21293424": {
     "name": "Gunkan Suship Shirauo-class Carrier",
     "tsdvalue": 20588
@@ -11118,6 +11158,10 @@
   "21576077": {
     "name": "Drytron Eclipse",
     "tsdvalue": 20056
+  },
+  "21579049": {
+    "name": "White Circle Reef",
+    "tsdvalue": 24095
   },
   "21593977": {
     "name": "Makyura the Destructor",
@@ -11539,6 +11583,10 @@
     "name": "Volcanic Trooper",
     "tsdvalue": 23655
   },
+  "22414174": {
+    "name": "Synchro Creed",
+    "tsdvalue": 24089
+  },
   "22419772": {
     "name": "Fairy Guardian",
     "tsdvalue": 929
@@ -11578,6 +11626,10 @@
   "22499463": {
     "name": "Venom Cobra",
     "tsdvalue": 2708
+  },
+  "22501005": {
+    "name": "Ritual Beast Inheritance",
+    "tsdvalue": 24082
   },
   "22510667": {
     "name": "Gouki The Solid Ogre",
@@ -12166,6 +12218,10 @@
   "23619206": {
     "name": "Simorgh, Bird of Calamity",
     "tsdvalue": 19033
+  },
+  "23623653": {
+    "name": "Spiritual Beast Tamer Lara",
+    "tsdvalue": 24079
   },
   "23626223": {
     "name": "Statue of Anguish Pattern",
@@ -12842,6 +12898,10 @@
   "24874630": {
     "name": "Fiend's Sanctuary",
     "tsdvalue": 959
+  },
+  "24878656": {
+    "name": "Toy Box",
+    "tsdvalue": 24109
   },
   "24882256": {
     "name": "Fire Phoenix @Ignister",
@@ -16983,6 +17043,10 @@
     "name": "Steel Star Regulator",
     "tsdvalue": 20169
   },
+  "32991027": {
+    "name": "Georgius, Swordman of the Ice Barrier",
+    "tsdvalue": 24068
+  },
   "32995007": {
     "name": "Celestial Wolf Lord, Blue Sirius",
     "tsdvalue": 5838
@@ -17735,6 +17799,10 @@
     "name": "Mechanical Snail",
     "tsdvalue": 1642
   },
+  "34446231": {
+    "name": "Infernoid Flood",
+    "tsdvalue": 24076
+  },
   "34447918": {
     "name": "Kashtiratheosis",
     "tsdvalue": 23284
@@ -17826,6 +17894,10 @@
   "34568403": {
     "name": "Arcana Force VII - The Chariot",
     "tsdvalue": 118
+  },
+  "34568783": {
+    "name": "R-Genex Undine",
+    "tsdvalue": 24073
   },
   "34572613": {
     "name": "Myutant Evolution Lab",
@@ -18250,6 +18322,10 @@
   "35371948": {
     "name": "Trickstar Light Stage",
     "tsdvalue": 17747
+  },
+  "35380371": {
+    "name": "Frozen Domain of the Ice Barrier",
+    "tsdvalue": 24070
   },
   "35394356": {
     "name": "Daruma Dropper",
@@ -21943,6 +22019,10 @@
     "name": "Sealing Ceremony of Raiton",
     "tsdvalue": 4966
   },
+  "42427230": {
+    "name": "Division",
+    "tsdvalue": 24113
+  },
   "42429678": {
     "name": "Bururu @Ignister",
     "tsdvalue": 19381
@@ -22850,6 +22930,10 @@
   "44190146": {
     "name": "Grandpa Demetto",
     "tsdvalue": 20642
+  },
+  "44201739": {
+    "name": "Mira Match",
+    "tsdvalue": 24100
   },
   "44203504": {
     "name": "Robotic Knight",
@@ -24391,6 +24475,10 @@
     "name": "Hidden Fangs of Revenge",
     "tsdvalue": 20640
   },
+  "47132793": {
+    "name": "Blaze, Supreme Ruler of all Dragons",
+    "tsdvalue": 24066
+  },
   "47149093": {
     "name": "Crystal Brilliance",
     "tsdvalue": 23019
@@ -24418,6 +24506,10 @@
   "47185546": {
     "name": "Bug Signal",
     "tsdvalue": 17584
+  },
+  "47195442": {
+    "name": "Wonky Quartet",
+    "tsdvalue": 24102
   },
   "47198668": {
     "name": "D/D/D Doom King Armageddon",
@@ -25058,6 +25150,10 @@
   "48468330": {
     "name": "Terrifying Toddler of Torment",
     "tsdvalue": 18325
+  },
+  "48486809": {
+    "name": "Winged Kuriboh LV6",
+    "tsdvalue": 24084
   },
   "48497555": {
     "name": "Scrap-Iron Statue",
@@ -27295,6 +27391,10 @@
     "name": "Dragunity Pilum",
     "tsdvalue": 4321
   },
+  "53008933": {
+    "name": "Archfiend's Advent",
+    "tsdvalue": 24105
+  },
   "53025096": {
     "name": "Odd-Eyes Dragon",
     "tsdvalue": 8106
@@ -29271,6 +29371,10 @@
     "name": "Elemental HERO Shining Neos Wingman",
     "tsdvalue": 22915
   },
+  "56741506": {
+    "name": "Sky Striker Ace - Azalea Temperance",
+    "tsdvalue": 24099
+  },
   "56746202": {
     "name": "Scrap Chimera",
     "tsdvalue": 3798
@@ -29891,6 +29995,10 @@
     "name": "Wind-Up Rat",
     "tsdvalue": 4712
   },
+  "57964143": {
+    "name": "Arbitration of White",
+    "tsdvalue": 24096
+  },
   "57970721": {
     "name": "Drytron Asterism",
     "tsdvalue": 20057
@@ -30274,6 +30382,10 @@
   "58672736": {
     "name": "Dinowrestler Giga Spinosavate",
     "tsdvalue": 18888
+  },
+  "58680635": {
+    "name": "Electrode Beast Anion",
+    "tsdvalue": 24093
   },
   "58685438": {
     "name": "Bicorn Re'em",
@@ -31351,6 +31463,10 @@
     "name": "Shinobaron Shade Peacock",
     "tsdvalue": 23712
   },
+  "60830240": {
+    "name": "Void Reignition",
+    "tsdvalue": 24077
+  },
   "60832978": {
     "name": "Double Resonator",
     "tsdvalue": 17541
@@ -31474,6 +31590,10 @@
   "61049315": {
     "name": "Naturia Rosewhip",
     "tsdvalue": 4109
+  },
+  "61052897": {
+    "name": "R-Genex Turing",
+    "tsdvalue": 24074
   },
   "61068510": {
     "name": "Tornado",
@@ -31818,6 +31938,10 @@
   "61764082": {
     "name": "Dinowrestler Rambrachio",
     "tsdvalue": 19021
+  },
+  "61775475": {
+    "name": "Arms of Genex Return Zero",
+    "tsdvalue": 24071
   },
   "61777313": {
     "name": "Vanadis of the Nordic Ascendant",
@@ -33654,6 +33778,10 @@
   "65503206": {
     "name": "Scrap Soldier",
     "tsdvalue": 3913
+  },
+  "65504487": {
+    "name": "Toy Soldier",
+    "tsdvalue": 24108
   },
   "65518099": {
     "name": "Qliphort Scout",
@@ -35711,6 +35839,10 @@
     "name": "Metalfoes Combination",
     "tsdvalue": 17077
   },
+  "69718652": {
+    "name": "Ritual Beast Ulti-Nochiudrago",
+    "tsdvalue": 24080
+  },
   "69723159": {
     "name": "Bujingi Quilin",
     "tsdvalue": 5636
@@ -35742,6 +35874,10 @@
   "69792699": {
     "name": "Penguin Sword",
     "tsdvalue": 20653
+  },
+  "69802283": {
+    "name": "Gathering Light",
+    "tsdvalue": 24090
   },
   "69809989": {
     "name": "Ghostrick Shot",
@@ -35802,6 +35938,10 @@
   "69895264": {
     "name": "Labrynth Set-Up",
     "tsdvalue": 22989
+  },
+  "69925461": {
+    "name": "Toy Tank",
+    "tsdvalue": 24087
   },
   "69931927": {
     "name": "Earthbound Immortal Chacu Challhua",
@@ -37915,6 +38055,10 @@
     "name": "Golden Bamboo Sword",
     "tsdvalue": 1160
   },
+  "74055055": {
+    "name": "Oil",
+    "tsdvalue": 24110
+  },
   "74063034": {
     "name": "Invocation",
     "tsdvalue": 17464
@@ -38827,6 +38971,10 @@
     "name": "Bujintei Susanowo",
     "tsdvalue": 5673
   },
+  "75874514": {
+    "name": "Shining Star Dragon",
+    "tsdvalue": 24085
+  },
   "75878039": {
     "name": "Satellarknight Deneb",
     "tsdvalue": 9134
@@ -38846,6 +38994,10 @@
   "75889523": {
     "name": "Archfiend Marmot of Nefariousness",
     "tsdvalue": 124
+  },
+  "75892194": {
+    "name": "Ancient Gear Dragon",
+    "tsdvalue": 24107
   },
   "75901113": {
     "name": "Knight of Armor Dragon",
@@ -41003,6 +41155,10 @@
     "name": "Keldo",
     "tsdvalue": 1441
   },
+  "80453041": {
+    "name": "Phantom of Yubel",
+    "tsdvalue": 24106
+  },
   "80457744": {
     "name": "Boost Warrior",
     "tsdvalue": 5129
@@ -42627,6 +42783,10 @@
     "name": "Darkworld Shackles",
     "tsdvalue": 3856
   },
+  "83589191": {
+    "name": "Life Hack",
+    "tsdvalue": 24103
+  },
   "83602069": {
     "name": "Comrade Swordsman of Landstar",
     "tsdvalue": 434
@@ -42770,6 +42930,10 @@
   "83957459": {
     "name": "Rhinotaurus",
     "tsdvalue": 3795
+  },
+  "83962752": {
+    "name": "Synchro Panic",
+    "tsdvalue": 24097
   },
   "83965310": {
     "name": "Destiny HERO - Plasma",
@@ -47867,6 +48031,10 @@
     "name": "Loptr, Shadow of the Generaider Bosses",
     "tsdvalue": 19612
   },
+  "94185340": {
+    "name": "Sacrifice Level-Up",
+    "tsdvalue": 24094
+  },
   "94187078": {
     "name": "Drytron Nova",
     "tsdvalue": 20055
@@ -48359,6 +48527,10 @@
     "name": "Koa'ki Meiru Tornado",
     "tsdvalue": 3218
   },
+  "95207988": {
+    "name": "Earthbound Resonance",
+    "tsdvalue": 24091
+  },
   "95209656": {
     "name": "Drytron Meteonis Quadrantids",
     "tsdvalue": 20052
@@ -48795,6 +48967,10 @@
     "name": "Drytron Zeta Aldhibah",
     "tsdvalue": 20049
   },
+  "96029570": {
+    "name": "Ebon Sun",
+    "tsdvalue": 24088
+  },
   "96029574": {
     "name": "Black Brutdrago",
     "tsdvalue": 2909
@@ -48822,6 +48998,10 @@
   "96100333": {
     "name": "Triamid Pulse",
     "tsdvalue": 17078
+  },
+  "96113307": {
+    "name": "Ritual Beast Ulti-Reirautari",
+    "tsdvalue": 24081
   },
   "96127902": {
     "name": "Made to Order Mermaid Outfit Outfitter",
@@ -48894,6 +49074,10 @@
   "96235275": {
     "name": "Jain, Lightsworn Paladin",
     "tsdvalue": 4809
+  },
+  "96235944": {
+    "name": "Void Breach",
+    "tsdvalue": 24078
   },
   "96239878": {
     "name": "Strength in Unity",
@@ -48974,6 +49158,10 @@
   "96399967": {
     "name": "Gizmek Naganaki, the Sunrise Signaler",
     "tsdvalue": 20423
+  },
+  "96402918": {
+    "name": "Lancea, Ancestral Dragon of the Ice Mountain",
+    "tsdvalue": 24067
   },
   "96404912": {
     "name": "Recall",
@@ -49266,6 +49454,10 @@
   "97036149": {
     "name": "Tenyi Spirit - Nahata",
     "tsdvalue": 19029
+  },
+  "97051536": {
+    "name": "Infernoid Evil",
+    "tsdvalue": 24075
   },
   "97053215": {
     "name": "G Golem Stubborn Menhir",
