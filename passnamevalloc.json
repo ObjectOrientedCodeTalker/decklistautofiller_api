@@ -3591,6 +3591,10 @@
     "name": "Teleport",
     "tsdvalue": 2454
   },
+  "6798031": {
+    "name": "Ryzeal Cross",
+    "tsdvalue": 26226
+  },
   "6799227": {
     "name": "Half Counter",
     "tsdvalue": 3873
@@ -3930,6 +3934,10 @@
   "7500772": {
     "name": "Eagle Shark",
     "tsdvalue": 5462
+  },
+  "7511613": {
+    "name": "Ryzeal Duo Drive",
+    "tsdvalue": 26223
   },
   "7512044": {
     "name": "Gather Your Mind",
@@ -4498,6 +4506,10 @@
   "8632967": {
     "name": "Evo-Karma",
     "tsdvalue": 4579
+  },
+  "8633261": {
+    "name": "Ice Ryzeal",
+    "tsdvalue": 26220
   },
   "8634636": {
     "name": "Dark Cat with White Tail",
@@ -10863,6 +10875,10 @@
     "name": "Elemental HERO Sparkman",
     "tsdvalue": 863
   },
+  "20726052": {
+    "name": "Maliss C GWC06",
+    "tsdvalue": 26236
+  },
   "20727787": {
     "name": "Disarmament",
     "tsdvalue": 733
@@ -10950,6 +10966,10 @@
   "20899496": {
     "name": "Ice Dragon's Prison",
     "tsdvalue": 19852
+  },
+  "20904475": {
+    "name": "Kairo Ryu-Ge Emva",
+    "tsdvalue": 26239
   },
   "20920083": {
     "name": "Scrum Force",
@@ -11458,6 +11478,10 @@
   "21844577": {
     "name": "Elemental HERO Avian",
     "tsdvalue": 828
+  },
+  "21848500": {
+    "name": "Maliss Q Hearts Crypter",
+    "tsdvalue": 26233
   },
   "21858819": {
     "name": "Number XX: Utopic Dark Infinity",
@@ -15027,6 +15051,10 @@
     "name": "Deep Dark Trap Hole",
     "tsdvalue": 4604
   },
+  "28669235": {
+    "name": "Ryu-Ge Realm - Sea Spires",
+    "tsdvalue": 26245
+  },
   "28674152": {
     "name": "Radian, the Multidimensional Kaiju",
     "tsdvalue": 16622
@@ -15610,6 +15638,10 @@
   "29876529": {
     "name": "Darklight",
     "tsdvalue": 4601
+  },
+  "29882827": {
+    "name": "Ryu-Ge Rising",
+    "tsdvalue": 26242
   },
   "29884951": {
     "name": "Swordsoul Auspice Chunjun",
@@ -16799,6 +16831,10 @@
     "name": "You and A.I.",
     "tsdvalue": 20326
   },
+  "32061192": {
+    "name": "Maliss P Dormouse",
+    "tsdvalue": 26230
+  },
   "32061744": {
     "name": "Wattkeeper",
     "tsdvalue": 3933
@@ -17106,6 +17142,10 @@
   "32615065": {
     "name": "Shura the Combat Star",
     "tsdvalue": 18290
+  },
+  "32617464": {
+    "name": "Tri-Gate Wizard",
+    "tsdvalue": 17936
   },
   "32619583": {
     "name": "Sillva, Warlord of Dark World",
@@ -17727,6 +17767,10 @@
     "name": "Jar Robber",
     "tsdvalue": 1401
   },
+  "33787730": {
+    "name": "Ryzeal Plasma Hole",
+    "tsdvalue": 26227
+  },
   "33814281": {
     "name": "Dark Contract with Patent License",
     "tsdvalue": 20734
@@ -17862,6 +17906,10 @@
   "34022290": {
     "name": "Guardian Eatos",
     "tsdvalue": 3150
+  },
+  "34022970": {
+    "name": "Ext Ryzeal",
+    "tsdvalue": 26221
   },
   "34026662": {
     "name": "Evo-Miracle",
@@ -18330,6 +18378,10 @@
   "34906152": {
     "name": "Mass Driver",
     "tsdvalue": 1629
+  },
+  "34909328": {
+    "name": "Ryzeal Detonator",
+    "tsdvalue": 26224
   },
   "34923554": {
     "name": "Infinitrack Drag Shovel",
@@ -18830,6 +18882,10 @@
   "35842855": {
     "name": "Pyrorex the Elemental Lord",
     "tsdvalue": 5323
+  },
+  "35844557": {
+    "name": "Sword Ryzeal",
+    "tsdvalue": 26218
   },
   "35848254": {
     "name": "Photon Lead",
@@ -28987,6 +29043,10 @@
     "name": "Nordic Relic Draupnir",
     "tsdvalue": 4116
   },
+  "55154344": {
+    "name": "Ryu-Ge Realm - Wyrm Winds",
+    "tsdvalue": 26246
+  },
   "55168550": {
     "name": "Galaxy Brave",
     "tsdvalue": 18491
@@ -29026,6 +29086,10 @@
   "55273560": {
     "name": "Incredible Ecclesia, the Virtuous",
     "tsdvalue": 20546
+  },
+  "55276522": {
+    "name": "Ryu-Ge War Zone",
+    "tsdvalue": 26243
   },
   "55277252": {
     "name": "The Fabled Nozoochee",
@@ -29675,6 +29739,10 @@
     "name": "Swordsoul of Taia",
     "tsdvalue": 20543
   },
+  "56499179": {
+    "name": "Genro Ryu-Ge Hakva",
+    "tsdvalue": 26240
+  },
   "56506740": {
     "name": "Primite Lordly Lode",
     "tsdvalue": 26178
@@ -30046,6 +30114,10 @@
   "57111330": {
     "name": "Therion \"Duke\" Yul",
     "tsdvalue": 22747
+  },
+  "57111661": {
+    "name": "Maliss C TB11",
+    "tsdvalue": 26237
   },
   "57115864": {
     "name": "Lumenize",
@@ -31751,6 +31823,10 @@
     "name": "Senri Eye",
     "tsdvalue": 2195
   },
+  "60394026": {
+    "name": "Ryzeal Plugin",
+    "tsdvalue": 26225
+  },
   "60398723": {
     "name": "Murmur of the Forest",
     "tsdvalue": 4584
@@ -32118,6 +32194,10 @@
   "61103515": {
     "name": "Ghost Wyvern, the Underworld Dragon",
     "tsdvalue": 23540
+  },
+  "61116514": {
+    "name": "Palm Ryzeal",
+    "tsdvalue": 26222
   },
   "61127349": {
     "name": "Big Bang Shot",
@@ -35615,6 +35695,10 @@
     "name": "Continuous Destruction Punch",
     "tsdvalue": 439
   },
+  "68059897": {
+    "name": "Maliss Q Red Ransom",
+    "tsdvalue": 26231
+  },
   "68073522": {
     "name": "Soul Absorption",
     "tsdvalue": 2295
@@ -35742,6 +35826,10 @@
   "68334074": {
     "name": "Miracle Restoring",
     "tsdvalue": 1700
+  },
+  "68337209": {
+    "name": "Maliss in Underground",
+    "tsdvalue": 26234
   },
   "68339286": {
     "name": "Metal Guardian",
@@ -36218,6 +36306,10 @@
   "69270537": {
     "name": "Contact Out",
     "tsdvalue": 438
+  },
+  "69272449": {
+    "name": "Maliss P White Rabbit",
+    "tsdvalue": 26228
   },
   "69279219": {
     "name": "My Body as a Shield",
@@ -37686,6 +37778,10 @@
   "72237166": {
     "name": "Samsara Kaiser",
     "tsdvalue": 2154
+  },
+  "72238166": {
+    "name": "Node Ryzeal",
+    "tsdvalue": 26219
   },
   "72258771": {
     "name": "Koa'ki Meiru Valafar",
@@ -42399,6 +42495,10 @@
     "name": "Seed Cannon",
     "tsdvalue": 3438
   },
+  "81549048": {
+    "name": "Ryu-Ge Rivalry",
+    "tsdvalue": 26247
+  },
   "81555617": {
     "name": "Ad Libitum of Despia",
     "tsdvalue": 20550
@@ -42994,6 +43094,10 @@
   "82661461": {
     "name": "Performapal Odd-Eyes Valet",
     "tsdvalue": 23523
+  },
+  "82661630": {
+    "name": "Ryu-Ge Realm - Dino Domains",
+    "tsdvalue": 26244
   },
   "82670878": {
     "name": "Ogre of the Scarlet Sorrow",
@@ -47883,6 +47987,10 @@
     "name": "Temple of the Mind's Eye",
     "tsdvalue": 17862
   },
+  "92487128": {
+    "name": "Sosei Ryu-Ge Mistva",
+    "tsdvalue": 26241
+  },
   "92501449": {
     "name": "Primite Roar",
     "tsdvalue": 26179
@@ -48434,6 +48542,10 @@
   "93507434": {
     "name": "Dinowrestler Capaptera",
     "tsdvalue": 18487
+  },
+  "93509766": {
+    "name": "Kyoro Ryu-Ge Kaiva",
+    "tsdvalue": 26238
   },
   "93542102": {
     "name": "Morphtronic Celfon",
@@ -49067,6 +49179,10 @@
     "name": "Eradicating Aerosol",
     "tsdvalue": 4504
   },
+  "94722358": {
+    "name": "Maliss C MTP07",
+    "value": 262235
+  },
   "94730900": {
     "name": "Infernoble Knight Maugis",
     "tsdvalue": 19791
@@ -49426,6 +49542,10 @@
   "95453143": {
     "name": "Hundred Eyes Dragon",
     "tsdvalue": 3763
+  },
+  "95454996": {
+    "name": "Maliss Q White Binder",
+    "tsdvalue": 26232
   },
   "95457011": {
     "name": "Edea the Heavenly Squire",
@@ -50054,6 +50174,10 @@
   "96661780": {
     "name": "Riryoku Guardian",
     "tsdvalue": 23342
+  },
+  "96676583": {
+    "name": "Maliss P Chessy Cat",
+    "tsdvalue": 26229
   },
   "96677818": {
     "name": "Spellbook Organization",
