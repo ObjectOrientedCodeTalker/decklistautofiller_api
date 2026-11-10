@@ -1,0 +1,50 @@
+name: Update card images and manifest
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # daily at 09:00 UTC
+  workflow_dispatch:      # adds a "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write         # lets the job push its commit
+
+concurrency:
+  group: update-cards     # never run two updates at once
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download new cards and refresh manifest
+        id: run
+        # A few failed image downloads shouldn't block committing the rest;
+        # they are retried automatically on the next run.
+        continue-on-error: true
+        run: python ygo_thumbs.py
+
+      - name: Commit and push changes
+        run: |
+          git add card_images_small manifest.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          added=$(git diff --cached --name-only --diff-filter=A -- card_images_small | wc -l)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Auto-update cards ($added new images)"
+          git push
+
+      - name: Report failed downloads
+        if: steps.run.outcome == 'failure'
+        run: |
+          [ -f failed.txt ] && cat failed.txt
+          exit 1
