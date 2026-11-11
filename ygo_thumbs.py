@@ -162,9 +162,11 @@ def apply_official_names(manifest, official):
       moves:   {card_id: other card_id whose YGOPRODeck image is the right one}
     """
     owner = {}  # YGOPRODeck name -> base card_id, before any changes
+    type_of = {}  # YGOPRODeck name -> card type, before any changes
     for pid, entry in manifest.items():
         if not entry["alt_art"]:
             owner.setdefault(entry["name"], int(pid))
+            type_of.setdefault(entry["name"], entry.get("type"))
 
     changes, moves = {}, {}
     for entry in manifest.values():
@@ -176,8 +178,25 @@ def apply_official_names(manifest, official):
         other = owner.get(new)
         if other is not None and other != cid:
             moves[cid] = other
+            # The card type belongs with the name, so it moves too.
+            if type_of.get(new):
+                entry["type"] = type_of[new]
         entry["name"] = new
     return changes, moves
+
+
+def card_type(card):
+    """"monster", "spell" or "trap" (which Neuron deck table the card goes in);
+    None for skill cards and anything else that isn't played in a deck."""
+    frame = (card.get("frameType") or "").lower()
+    kind = (card.get("type") or "").lower()
+    if frame == "spell" or kind.startswith("spell"):
+        return "spell"
+    if frame == "trap" or kind.startswith("trap"):
+        return "trap"
+    if frame in ("skill", "token") or kind in ("skill card", "token"):
+        return None
+    return "monster"
 
 
 def build_jobs(cards, size_key):
@@ -197,6 +216,9 @@ def build_jobs(cards, size_key):
                 "name": card.get("name"),
                 "alt_art": pid != base_id,
             }
+            kind = card_type(card)
+            if kind:
+                manifest[str(pid)]["type"] = kind  # Neuron deck table
     return jobs, manifest
 
 
