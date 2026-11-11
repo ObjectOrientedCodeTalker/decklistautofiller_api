@@ -37,7 +37,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-API_URL = "https://db.ygoprodeck.com/api/v7/cardinfo.php"
+# misc=yes adds misc_info, which carries each card's Konami database ID (konami_id).
+API_URL = "https://db.ygoprodeck.com/api/v7/cardinfo.php?misc=yes"
 USER_AGENT = "ygo-thumb-downloader/1.0 (personal deckbuilder project)"
 
 # YGOPRODeck limits clients to 20 requests/second and will temporarily ban
@@ -107,9 +108,11 @@ def fetch_card_data(limiter, cache_path=None):
 
 
 def fetch_yugipedia_names(limiter):
-    """Return {passcode: official English name} for every TCG/OCG card on Yugipedia."""
+    """Return ({passcode: official English name}, {passcode: Konami database ID})
+    for every TCG/OCG card on Yugipedia."""
     print("Fetching official card names from Yugipedia...")
     names = {}
+    db_ids = {}
     digits = "0123456789"
     for i, digit in enumerate(digits, 1):
         offset = 0
@@ -118,7 +121,8 @@ def fetch_yugipedia_names(limiter):
             # Category:Duel Monsters cards excludes video-game pages, which
             # share passcodes with the real card (e.g. "Dark Magician (DM4)").
             query = (f"[[Category:Duel Monsters cards]][[Password::~{digit}*]]"
-                     f"|?Password|?English name|limit={YUGIPEDIA_PAGE_SIZE}|offset={offset}")
+                     f"|?Password|?English name|?Database ID"
+                     f"|limit={YUGIPEDIA_PAGE_SIZE}|offset={offset}")
             url = YUGIPEDIA_API + "?" + urllib.parse.urlencode(
                 {"action": "ask", "format": "json", "api_version": "3", "query": query})
             resp = json.loads(http_get(url, limiter, timeout=60))
@@ -129,6 +133,11 @@ def fetch_yugipedia_names(limiter):
             for row in results:
                 (_, page), = row.items()
                 printouts = page["printouts"]
+                db_id = konami_id_of(printouts.get("Database ID"))
+                if db_id:
+                    for pw in printouts.get("Password") or []:
+                        if pw.isdigit():
+                            db_ids[int(pw)] = db_id
                 english = printouts.get("English name") or []
                 if not english:
                     continue
@@ -142,11 +151,23 @@ def fetch_yugipedia_names(limiter):
             offset = next_offset
         print(f"  [{i}/{len(digits)}] passcodes starting with {digit}: "
               f"{segment_count} cards (total so far {len(names)})", flush=True)
-    print(f"  {len(names)} official names received")
-    return names
+    print(f"  {len(names)} official names and {len(db_ids)} Konami IDs received")
+    return names, db_ids
 
 
-def apply_official_names(manifest, official):
+def konami_id_of(values):
+    """First positive integer in a list of Konami ID values, or None."""
+    for v in values or []:
+        try:
+            n = int(v)
+        except (TypeError, ValueError):
+            continue
+        if n > 0:
+            return n
+    return None
+
+
+def apply_official_names(manifest, official, db_ids=None):
     """Overwrite manifest names with Yugipedia's, matching on the base card_id
     so alt arts get the same correction.
 
@@ -157,16 +178,32 @@ def apply_official_names(manifest, official):
     so its name wins, and that passcode's image must come from the other
     YGOPRODeck entry; those are returned as moves.
 
+    Konami IDs (which Neuron, Konami's deck builder, needs) come from Yugipedia
+    by passcode (db_ids); a card Yugipedia has no ID for keeps YGOPRODeck's ID
+    for its corrected name, so a swap never brings the other card's ID along.
+    The card type also follows the name.
+
     Returns (changes, moves):
       changes: {card_id: (old name, new name)}
       moves:   {card_id: other card_id whose YGOPRODeck image is the right one}
     """
     owner = {}  # YGOPRODeck name -> base card_id, before any changes
     type_of = {}  # YGOPRODeck name -> card type, before any changes
+    kid_of = {}  # YGOPRODeck name -> Konami ID, before any changes
     for pid, entry in manifest.items():
         if not entry["alt_art"]:
             owner.setdefault(entry["name"], int(pid))
             type_of.setdefault(entry["name"], entry.get("type"))
+            kid_of.setdefault(entry["name"], entry.get("konami_id"))
+
+    db_ids = db_ids or {}
+    for entry in manifest.values():
+        new = official.get(entry["card_id"]) or entry["name"]
+        kid = db_ids.get(entry["card_id"]) or kid_of.get(new)
+        if kid:
+            entry["konami_id"] = kid
+        else:
+            entry.pop("konami_id", None)
 
     changes, moves = {}, {}
     for entry in manifest.values():
@@ -219,6 +256,9 @@ def build_jobs(cards, size_key):
             kind = card_type(card)
             if kind:
                 manifest[str(pid)]["type"] = kind  # Neuron deck table
+            kid = konami_id_of([m.get("konami_id") for m in card.get("misc_info") or []])
+            if kid:
+                manifest[str(pid)]["konami_id"] = kid  # Neuron card ID
     return jobs, manifest
 
 
@@ -264,11 +304,11 @@ def main():
     force = set()  # passcodes whose image must be re-downloaded every run
     if not args.skip_yugipedia:
         try:
-            official = fetch_yugipedia_names(RateLimiter(YUGIPEDIA_REQUESTS_PER_SEC))
+            official, db_ids = fetch_yugipedia_names(RateLimiter(YUGIPEDIA_REQUESTS_PER_SEC))
         except Exception as e:
             print(f"  WARNING: Yugipedia name pass failed ({e}); keeping YGOPRODeck names.")
         else:
-            changes, moves = apply_official_names(manifest, official)
+            changes, moves = apply_official_names(manifest, official, db_ids)
             print(f"  {len(changes)} card names corrected:")
             for cid, (old, new) in sorted(changes.items(), key=lambda c: c[1][0]):
                 print(f"    {cid}: {old!r} -> {new!r}")
