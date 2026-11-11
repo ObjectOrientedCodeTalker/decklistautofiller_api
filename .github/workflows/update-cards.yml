@@ -2,18 +2,47 @@ name: Update card images and manifest
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # daily at 09:00 UTC
-  workflow_dispatch:      # adds a "Run workflow" button in the Actions tab
+    - cron: "0 9 * * *"   # daily at 09:00 UTC; only does work inside a release window
+  workflow_dispatch:      # "Run workflow" button in the Actions tab
+    inputs:
+      force:
+        description: "Run the update even if today isn't in a release window"
+        type: boolean
+        default: true
 
 permissions:
   contents: write         # lets the job push its commit
 
 concurrency:
-  group: update-cards     # never run two updates at once
+  group: repo-writes      # shared with update-calendar so pushes never collide
   cancel-in-progress: false
 
 jobs:
+  # Offline check: reads release_calendar.json from the repo, contacts no website.
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      run: ${{ steps.window.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            release_calendar.py
+            release_calendar.json
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Is today within 5 days of a TCG release?
+        id: window
+        run: python release_calendar.py check
+
   update:
+    needs: check
+    if: needs.check.outputs.run == 'true' || inputs.force
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -30,9 +59,12 @@ jobs:
         continue-on-error: true
         run: python ygo_thumbs.py
 
+      - name: Set latest released set and update date in info.json
+        run: python release_calendar.py info
+
       - name: Commit and push changes
         run: |
-          git add card_images_small manifest.json
+          git add card_images_small manifest.json info.json
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0

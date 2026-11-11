@@ -1,0 +1,45 @@
+name: Update release calendar
+
+on:
+  schedule:
+    - cron: "0 8 1 * *"   # 1st of every month, 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writes      # shared with update-cards so pushes never collide
+  cancel-in-progress: false
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Only the two calendar files are needed, so skip the ~14k card images.
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            release_calendar.py
+            release_calendar.json
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch TCG release dates (1 request to Yugipedia)
+        run: python release_calendar.py fetch
+
+      - name: Commit and push changes
+        run: |
+          git add release_calendar.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update release calendar"
+          git push
