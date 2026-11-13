@@ -4427,6 +4427,12 @@
   "type": "monster",
   "konami_id": 7586
  },
+ "100461101": {
+  "card_id": 100461101,
+  "name": "Arcana Force VIII - The Strength",
+  "alt_art": false,
+  "type": "monster"
+ },
  "72321198": {
   "card_id": 72321198,
   "name": "Arcana Force XII - The Hangman",
@@ -6192,6 +6198,12 @@
   "alt_art": false,
   "type": "trap",
   "konami_id": 8069
+ },
+ "101404003": {
+  "card_id": 101404003,
+  "name": "Assault Slash Wyvern",
+  "alt_art": false,
+  "type": "monster"
  },
  "18711696": {
   "card_id": 18711696,
@@ -10256,6 +10268,12 @@
   "type": "monster",
   "konami_id": 12253
  },
+ "101404001": {
+  "card_id": 101404001,
+  "name": "Blue-Eyes Alternative White Dragon, the Guided Phantom Beast",
+  "alt_art": false,
+  "type": "monster"
+ },
  "20654247": {
   "card_id": 20654247,
   "name": "Blue-Eyes Chaos Dragon",
@@ -10269,6 +10287,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 12487
+ },
+ "101404027": {
+  "card_id": 101404027,
+  "name": "Blue-Eyes Chaos MAXIMUM Dragon",
+  "alt_art": false,
+  "type": "monster"
  },
  "30576089": {
   "card_id": 30576089,
@@ -23478,6 +23502,12 @@
   "type": "monster",
   "konami_id": 18173
  },
+ "101404051": {
+  "card_id": 101404051,
+  "name": "Dimensional Ascension",
+  "alt_art": false,
+  "type": "spell"
+ },
  "83326048": {
   "card_id": 83326048,
   "name": "Dimensional Barrier",
@@ -25802,6 +25832,12 @@
   "alt_art": false,
   "type": "spell",
   "konami_id": 6433
+ },
+ "100463007": {
+  "card_id": 100463007,
+  "name": "Dragon's Orb",
+  "alt_art": false,
+  "type": "trap"
  },
  "54178050": {
   "card_id": 54178050,
@@ -29278,6 +29314,12 @@
   "type": "spell",
   "konami_id": 22315
  },
+ "101404049": {
+  "card_id": 101404049,
+  "name": "Endless Darkness",
+  "alt_art": false,
+  "type": "spell"
+ },
  "7845138": {
   "card_id": 7845138,
   "name": "Endless Decay",
@@ -29396,6 +29438,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 12149
+ },
+ "100463006": {
+  "card_id": 100463006,
+  "name": "Enhanced Counter",
+  "alt_art": false,
+  "type": "trap"
  },
  "72444406": {
   "card_id": 72444406,
@@ -49850,6 +49898,12 @@
   "type": "trap",
   "konami_id": 12494
  },
+ "101404002": {
+  "card_id": 101404002,
+  "name": "Krystal Cloud Dragon",
+  "alt_art": false,
+  "type": "monster"
+ },
  "77363314": {
   "card_id": 77363314,
   "name": "Krystal Dragon",
@@ -55687,6 +55741,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 14490
+ },
+ "100460032": {
+  "card_id": 100460032,
+  "name": "Marincess Overflow",
+  "alt_art": false,
+  "type": "trap"
  },
  "99885917": {
   "card_id": 99885917,
@@ -61952,6 +62012,12 @@
   "type": "monster",
   "konami_id": 6094
  },
+ "101404029": {
+  "card_id": 101404029,
+  "name": "Neo Blue-Eyes Hyper Ultimate Dragon",
+  "alt_art": false,
+  "type": "monster"
+ },
  "56532353": {
   "card_id": 56532353,
   "name": "Neo Blue-Eyes Ultimate Dragon",
@@ -61965,6 +62031,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 5873
+ },
+ "101404050": {
+  "card_id": 101404050,
+  "name": "Neo Chaos Form",
+  "alt_art": false,
+  "type": "spell"
  },
  "65156847": {
   "card_id": 65156847,
@@ -64553,6 +64625,12 @@
   "type": "monster",
   "konami_id": 4998
  },
+ "100463001": {
+  "card_id": 100463001,
+  "name": "Obelisk the Tormentor, the Pharaoh's Memory",
+  "alt_art": false,
+  "type": "monster"
+ },
  "56713552": {
   "card_id": 56713552,
   "name": "Obese Marmot of Nefariousness",
@@ -66361,6 +66439,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 12489
+ },
+ "101404071": {
+  "card_id": 101404071,
+  "name": "Pandemic Infection",
+  "alt_art": false,
+  "type": "trap"
  },
  "94585852": {
   "card_id": 94585852,
@@ -77138,6 +77222,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 4040
+ },
+ "101404004": {
+  "card_id": 101404004,
+  "name": "Saggi the Dark Sacrifice Clown",
+  "alt_art": false,
+  "type": "monster"
  },
  "93738004": {
   "card_id": 93738004,
