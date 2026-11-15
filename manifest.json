@@ -16007,6 +16007,12 @@
   "type": "monster",
   "konami_id": 22535
  },
+ "100295131": {
+  "card_id": 100295131,
+  "name": "Conviction of the Unchained",
+  "alt_art": false,
+  "type": "spell"
+ },
  "62966332": {
   "card_id": 62966332,
   "name": "Convulsion of Nature",
@@ -83330,6 +83336,12 @@
   "alt_art": true,
   "type": "trap",
   "konami_id": 4355
+ },
+ "100296303": {
+  "card_id": 100296303,
+  "name": "Spellbook Genius of Prophecy",
+  "alt_art": false,
+  "type": "monster"
  },
  "40230018": {
   "card_id": 40230018,
