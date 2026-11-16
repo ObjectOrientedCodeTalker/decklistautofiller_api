@@ -37818,6 +37818,12 @@
   "type": "monster",
   "konami_id": 16852
  },
+ "100460055": {
+  "card_id": 100460055,
+  "name": "Ghostrick Freeze",
+  "alt_art": false,
+  "type": "trap"
+ },
  "100460053": {
   "card_id": 100460053,
   "name": "Ghostrick Garden",
@@ -37968,6 +37974,12 @@
   "alt_art": false,
   "type": "monster",
   "konami_id": 10748
+ },
+ "100460049": {
+  "card_id": 100460049,
+  "name": "Ghostrick Spunkie",
+  "alt_art": false,
+  "type": "monster"
  },
  "16279989": {
   "card_id": 16279989,
